@@ -26,3 +26,6 @@ Pagina de teste básico, com anúncios mais comuns como o Google Adsense
 
 ## Direct link
 {{< adsterra-directlink >}}
+
+## Banner
+{{< adsterra-banner >}}
