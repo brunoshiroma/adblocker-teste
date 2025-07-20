@@ -29,3 +29,16 @@ Pagina de teste básico, com anúncios mais comuns como o Google Adsense
 
 ## Banner
 {{< adsterra-banner >}}
+
+# Monetag
+## Popunder
+{{< monetag-popunder >}}
+
+## Popunder antiadblock
+{{< monetag-popunder-antiadblock >}}
+
+## banner
+{{< monetag-banner >}}
+
+## Vignette banner
+{{< monetag-vignette-antiblock >}}
