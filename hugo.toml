@@ -4,6 +4,8 @@ title = 'Teste de bloqueadores de anúncios'
 theme = 'hugo-bearblog'
 enableRobotsTXT = true
 
+sectionPagesMenu = 'main'
+
 [params]
   description = "adblocker teste"
   hideMadeWithLine = true
