@@ -1,0 +1,9 @@
+baseURL = 'https://www.brunoshiroma.com/adblocker-teste/'
+languageCode = 'pt-BR'
+title = 'Teste de bloqueadores de anúncios'
+theme = 'hugo-bearblog'
+enableRobotsTXT = true
+
+[params]
+  description = "adblocker teste"
+  hideMadeWithLine = true
