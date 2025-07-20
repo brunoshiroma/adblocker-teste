@@ -11,3 +11,18 @@ Pagina de teste básico, com anúncios mais comuns como o Google Adsense
 
 ## Multiplex
 {{< adsense-multiplex1 >}}
+
+
+# Adsterra
+
+## Popunder
+{{< adsterra-popunder >}}
+
+## Social Bar
+{{< adsterra-socialbar >}}
+
+## Native banner
+{{< adsterra-nativebanner >}}
+
+## Direct link
+{{< adsterra-directlink >}}
